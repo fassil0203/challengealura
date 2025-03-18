@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![resultado](/assets/resultado.png)
-
 </div>
 
 <p>Neste desafio, foi desenvolvido uma aplicação que permite inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".</p>

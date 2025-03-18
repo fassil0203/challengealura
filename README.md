@@ -1,4 +1,5 @@
-<h1 align="center">Challenge ONE Lógica de Programação - Amigo Secreto</h1>
+<h1 align="center">Challenge Lógica de Programação</h1>
+<h2 align="center">Amigo Secreto </h2>
 
 <div align="center">
 
